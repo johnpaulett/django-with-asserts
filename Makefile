@@ -1,4 +1,4 @@
-.PHONY: upload
+.PHONY: build upload
 
 
 build:
