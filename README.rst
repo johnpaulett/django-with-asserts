@@ -1,6 +1,8 @@
 django-with-asserts - Test HTML with Context Managers
 =====================================================
 
+.. image:: https://api.travis-ci.org/johnpaulett/django-with-asserts.png
+
 Make your Django HTML tests more explicit and concise.
 
 Turn this::
